@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    font-family: fantasy;
+}
+#sort_button{
+    display: none;
+    margin: 20px;
+}
+#submit_button{
+    margin: 20px;
+}
+input{
+    margin: 10px;
+}
+h2{
+    font-variant: small-caps;
+}
